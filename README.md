@@ -25,6 +25,8 @@ The dataset is the "Paddy Disease Classification" dataset from Kaggle, containin
 - normal
 - tungro
 
+The dataset should be downloaded from [https://www.kaggle.com/competitions/paddy-disease-classification/data](https://www.kaggle.com/competitions/paddy-disease-classification/data).
+
 **Download Instructions**:
 1. Create a Kaggle account and verify it (requires phone verification).
 2. Generate a Kaggle API key:
