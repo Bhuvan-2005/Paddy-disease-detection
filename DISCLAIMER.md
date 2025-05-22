@@ -1,6 +1,6 @@
 # Disclaimer
 
-This project, "Paddy Disease Classification," developed by Ankit Singh and Bhuvan Indra G as part of the SWE2020 course, is provided for educational and research purposes only. The software, models, and associated documentation are intended to demonstrate the application of deep learning techniques for detecting diseases in paddy leaves.
+This project, "Paddy Disease Classification," developed by Ankit Singh and Bhuvan Indra G, it is provided for educational and research purposes only. The software, models, and associated documentation are intended to demonstrate the application of deep learning techniques for detecting diseases in paddy leaves.
 
 ## Usage Limitations
 
@@ -26,5 +26,6 @@ By using this software, you acknowledge that you have read, understood, and agre
 
 For questions or concerns, please contact:
 - Bhuvan Indra G
+- Phone No: +91 9491149955
 - [Email](mailto:gbindra21@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bhuvan-indra-995828274)
