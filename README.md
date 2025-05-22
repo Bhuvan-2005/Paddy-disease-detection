@@ -96,9 +96,31 @@ Based on code execution:
 - **Custom CNN**: Moderate performance (~60.12% accuracy, ~1.1006 loss).
 - **HSV CNN**: Poor performance (~16.29% accuracy, ~2.1612 loss).
 
+## Output
+
+The following visualizations are generated during the execution of the notebook and provide insights into model performance and predictions. Ensure the images are saved in the `outputImages/` directory of the repository for proper rendering.
+
+- **Final Validation Accuracy Comparison**: Bar chart comparing the validation accuracy of Custom CNN, VGG16, and HSV CNN models.  
+  ![Final Validation Accuracy Comparison](outputImages/Comparision_Study_Bar.png)
+
+- **Training and Validation Accuracy Comparison**: Line graph showing the training and validation accuracy of all models over epochs.  
+  ![Training and Validation Accuracy Comparison](outputImages/Comparision_Study.png)
+
+- **Custom CNN Accuracy and Loss**: Line graphs displaying the training and validation accuracy and loss for the Custom CNN model over epochs.  
+  ![Custom CNN Accuracy and Loss](outputImages/CNN_Accuracy_Loss.png)
+
+- **HSV CNN Accuracy and Loss**: Line graphs displaying the training and validation accuracy and loss for the HSV CNN model over epochs.  
+  ![HSV CNN Accuracy and Loss](outputImages/HSV_Accuracy_Loss.png)
+
+- **VGG16 Accuracy and Loss**: Line graphs displaying the training and validation accuracy and loss for the VGG16 model over epochs.  
+  ![VGG16 Accuracy and Loss](outputImages/VGG16_Accuracy_Loss.png)
+
+- **Sample Prediction**: Example prediction on a random image from the dataset, showing the true label and predictions from all models.  
+  ![Sample Prediction](outputImages/Test_Output_Image.png)
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Disclaimer
 
